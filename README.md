@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi 👋 I'm Sithura Myo.
+Just trying to write c# code.
+🌱 I’m currently learning most diffcult language in the world.It means human mindset understanding language.
 <!--
 **sisisama/sisisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
