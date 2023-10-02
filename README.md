@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Sithura Myo.
 Just trying to write code.
 🌱 
+![](https://komarev.com/ghpvc/?username=sithuramyo&color=green)
 <!--
 **sisisama/sisisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,7 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![](https://komarev.com/ghpvc/?username=sithuramyo&color=green)
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sithuramyo&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sithuramyo&hide=javascript,html,css&layout=compact&theme=github_dark)
