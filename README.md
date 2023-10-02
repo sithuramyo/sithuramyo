@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Sithura Myo.
 Just trying to write code.
-🌱 /n
+🌱 
 ![](https://komarev.com/ghpvc/?username=sithuramyo&color=green)
 <!--
 **sisisama/sisisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
